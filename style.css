@@ -1,0 +1,137 @@
+*{
+    font-family: Arial, Helvetica, sans-serif ;
+    background-color: #fff;
+}
+
+.main{
+
+background-color: rgb(255, 250, 250);
+padding: 20px;
+margin-top:-10px ;
+text-align: center;
+display: flex;
+justify-content: space-between;
+
+}
+
+input{
+   padding: 10px;
+   font-size: 1rem;
+   border: 3px solid black;
+   border-radius: 5px;
+   width: 400px;
+   display: inline-block;
+}
+.login{
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.50em;
+}
+button{
+    font-weight: bold;
+    font-size: 1.50em;
+    width: 100px;
+    border-radius: 50px;
+    border-color: aqua;
+    background-color: rgb(255, 255, 255);
+    
+}
+Ul{
+    display: flex;
+justify-content: space-between;
+}
+a{
+    font-size:1em;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: aqua;
+}
+.card{
+    border: 1px solid gray;
+    width: 250px;
+    height: 250px;
+    font-size: 2em;
+    padding: 10px;
+}
+p{
+    font-size: 16px;
+    margin-top:-0px ;
+}
+.maincard{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(221, 218, 218);
+    width: 1200px;
+    height: 300px;
+    padding: 20px;
+margin-left: 80px;margin-top: 15px;
+}
+.tow{
+    display: flex;
+    justify-content: space-around;
+    width: 1200px;
+    height: 300px;
+    padding: 20px;
+margin-left: 80px;margin-top: 30px;
+}.three{
+    display: flex;
+    justify-content: space-around;
+    width: 1200px;
+    height: 300px;
+    padding: 20px;
+margin-left: 80px;margin-top: 30px;
+}
+.span{
+    padding: 10px;
+    border: 2px solid black;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    margin-left: 650px;
+    font-weight: bold;font-size: 1em;
+
+}
+.span:hover{
+    border: 8px solid black;
+    font-size: 1em;
+}
+.last{
+    display: flex;
+   flex-wrap: wrap;
+   width: 900px;
+   margin-left: 90px;
+   
+    
+}
+.line{
+  
+ font-size: 1em ;
+  background-color: rgb(221, 218, 218);
+}
+.flast{
+    background-color: rgb(221, 218, 218);
+    display: flex;
+    justify-content: space-around;
+}
+h4{
+    background-color: rgb(221, 218, 218);
+}li{
+    background-color: rgb(221, 218, 218);
+    color: gray ;
+}li:hover{
+    color: black ;
+    font-weight: bold;
+    font-size: 1em;
+}
+.color{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: rgb(4, 57, 73);
+    border: 2px solid rgb(4, 57, 73);
+}
+
+
